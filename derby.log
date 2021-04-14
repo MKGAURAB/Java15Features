@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Wed Apr 14 12:35:07 ICT 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.9.1.0 - (1344872): instance a816c00e-0178-cee0-44be-000007936000 
+on database directory memory:/Users/swemkg/Desktop/repos/Java15Features/codejava/webdb  with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@73d16e93 
+Loaded from file:/Users/swemkg/Desktop/db-derby-10.9.1.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15.0.2+7-27
+user.dir=/Users/swemkg/Desktop/repos/Java15Features
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
